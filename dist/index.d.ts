@@ -41,6 +41,7 @@ export declare const IconHidden: string;
 export declare const IconHtml: string;
 export declare const IconInstagram: string;
 export declare const IconItalic: string;
+export declare const IconLineHorizontal: string;
 export declare const IconLink: string;
 export declare const IconLinkedin: string;
 export declare const IconListBulleted: string;

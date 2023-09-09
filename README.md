@@ -76,6 +76,7 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconHtml](dist/icons/IconHtml.svg) | `IconHtml` |
 | ![IconInstagram](dist/icons/IconInstagram.svg) | `IconInstagram` |
 | ![IconItalic](dist/icons/IconItalic.svg) | `IconItalic` |
+| ![IconLineHorizontal](dist/icons/IconLineHorizontal.svg) | `IconLineHorizontal` |
 | ![IconLink](dist/icons/IconLink.svg) | `IconLink` |
 | ![IconLinkedin](dist/icons/IconLinkedin.svg) | `IconLinkedin` |
 | ![IconListBulleted](dist/icons/IconListBulleted.svg) | `IconListBulleted` |
